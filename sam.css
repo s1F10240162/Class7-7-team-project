@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #f4f4f4;
+}
+thead {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+}
+caption {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
