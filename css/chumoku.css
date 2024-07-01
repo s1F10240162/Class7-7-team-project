@@ -8,6 +8,13 @@ h3 {
     font-family : sans-serif;
     font-size : 24px;
     text-shadow : 2px 2px 2px #aaaaaa;
+    text-align: center;
+    margin-right: 200px;
+}
+p{font-family : sans-serif;
+    font-size : 24px;
+    text-shadow : 2px 2px 2px #aaaaaa;
     text-align: right;
     margin-right: 200px;
+
 }
